@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+:root {
+  --color-black: #333333;
+  --color-white: #fafafa;
+}
+
+html {
+  font-family: Lato;
+  background: #e9e9e9;
+}

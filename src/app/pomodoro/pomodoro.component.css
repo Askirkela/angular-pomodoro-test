@@ -1,0 +1,15 @@
+.pomodoro {
+  text-align: center;
+}
+
+.pomodoro-work {
+  background: var(--color-black);
+  color: var(--color-white);
+}
+.pomodoro-break {
+  background: var(--color-white);
+  color: var(--color-black);
+}
+.pomodoro-timer {
+  font-size: 2em;
+}
